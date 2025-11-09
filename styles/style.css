@@ -230,5 +230,50 @@ footer {
     height: 160px;
   }
 }
+@media (max-width: 385px) {
+  .header nav a {
+    font-size: 0.7rem;
+    margin: 0 4px;
+  }
+  .hero {
+    padding: 2rem 0.5rem;
+  }
+
+  .hero h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero p {
+    font-size: 0.75rem;
+  }
+  .blog-container {
+    padding: 10px;
+  }
+}
+@media (max-width: 330px) {
+  .blog-container {
+    display: block;
+    padding: 5px 5px;
+  }
+}
+
+@media (max-width: 273px) {
+  .header nav a {
+    font-size: 8px;
+    margin: 0px 3px;
+  }
+  .hero {
+    padding: 1rem 0.2rem;
+  }
+
+  .hero h2 {
+    font-size: 0.8rem;
+    margin-bottom: 0.4rem;
+  }
+  .hero p {
+    font-size: 0.6rem;
+  }
+}
+
 
 
