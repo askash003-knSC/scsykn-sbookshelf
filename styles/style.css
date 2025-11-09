@@ -50,7 +50,7 @@ body {
 .hero {
   text-align: center;
   padding: 2.5rem 1rem;
-  background: linear-gradient(to right, #ffae0a, #af7d18);
+  background: red;
   color: white;
 }
 
@@ -230,3 +230,4 @@ footer {
     height: 160px;
   }
 }
+
