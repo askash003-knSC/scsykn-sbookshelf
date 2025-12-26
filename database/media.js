@@ -6,14 +6,15 @@ const videos = [
 ];
 
 const images = [
-  "title1.png",
-  "title2.png",
-  "title3.png",
-  "title4.png",
-  "title5.png",
+  "title1.PNG",
+  "title2.PNG",
+  "title3.PNG",
+  "title4.PNG",
+  "title5.PNG",
   "title6.png",
   "title7.png",
   "title8.png",
   "title9.png",
   "title10.png",
 ]
+
